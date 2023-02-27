@@ -8,6 +8,8 @@ public class MedLifeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MedLifeApplication.class, args);
+		
+		System.out.println("med-life started...");
 	}
 
 }
